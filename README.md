@@ -17,8 +17,9 @@ Take a motivational tour through the healthcare AI sample repository and set you
 
 By the end of this session, learners will be able to:
 
-- Deploy and evaluate a multimodal healthcare AI model
-- Understand best practices for operational AI in healthcare
+- Deploy and evaluate a multimodal healthcare AI model.
+- Explore healthcare foundation model use-cases.
+- Understand best practices for operational AI in healthcare.
 
 ### 💻 Technologies Used
 
@@ -33,6 +34,7 @@ By the end of this session, learners will be able to:
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Healthcare AI Examples | [microsoft/healthcareai-examples](https://github.com/microsoft/healthcareai-examples)| A repository full of healthcare ai examples from Microsoft.|
 
 ## Content Owners
 
