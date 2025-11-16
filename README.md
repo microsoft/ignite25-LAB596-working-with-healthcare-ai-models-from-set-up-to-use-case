@@ -4,36 +4,57 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## LAB596: Working with healthcare AI models: from set-up to use-case
+## 🔥LAB596: Working with healthcare AI models: from set-up to use-case
+
+[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
 
 ### Session Description
 
 Take a motivational tour through the healthcare AI sample repository and set yourself up for success with multimodal AI for Health & Life Sciences. Dive into notebooks and sample solutions for problems like image search, cancer grading based on radiology and pathology images, outlier detection, and exam parameter classification. Deploy a model, plug it into an agentic flow, and evaluate it with human feedback. A hands-on journey from setup to deployment and refinement.
 
-### 🌟 Microsoft Learn MCP Server
+### 🧠 Learning Outcomes
 
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
+By the end of this session, learners will be able to:
 
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
+- Deploy and evaluate a multimodal healthcare AI model.
+- Explore healthcare foundation model use-cases.
+- Understand best practices for operational AI in healthcare.
 
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
+### 💻 Technologies Used
 
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+1. AzureML
+1. Healthcare AI Models
+1. Python and Python Tools
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Healthcare AI Examples | [microsoft/healthcareai-examples](https://github.com/microsoft/healthcareai-examples)| A repository full of healthcare ai examples from Microsoft.|
 
 ## Content Owners
 
-- Jameson Merkow
-- Ivan Tarapov
-- Chris Burt
-- Manoj Kumar
-- Alberto Santamaria-Pang
+<table>
+<tr>
+    <td align="center"><a href="http://github.com/jmerkow">
+        <img src="https://github.com/jmerkow.png" width="100px;" alt="Jameson Merkow"
+"/><br />
+        <sub><b> Jameson Merkow
+</b></sub></a><br />
+            <a href="https://github.com/jmerkow" title="talk">📢</a> 
+    </td>
+    <td align="center"><a href="http://github.com/ivantarapov">
+        <img src="https://github.com/ivantarapov.png" width="100px;" alt="Ivan Tarapov
+"/><br />
+        <sub><b>Ivan Tarapov
+</b></sub></a><br />
+            <a href="https://github.com/ivantarapov" title="talk">📢</a> 
+    </td>
+</tr></table>
 
 
 ## Contributing
